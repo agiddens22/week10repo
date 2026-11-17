@@ -1,2 +1,3 @@
 Crow O'Flaherty
 CP390 Software Development and Deployment
+Learning goals: better git understanding, using github
